@@ -106,6 +106,8 @@ def generate_llms_txt
   all_book_items.each do |item|
     # Strip YAML frontmatter from the raw markdown
     content = item.raw_content.sub(/\A---.*?---\s*/m, '')
+    # Skip chapters that have not been launched yet
+    next if content.include?('Work in Progress')
     parts << "\n#{'=' * 80}\n"
     parts << content
   end
