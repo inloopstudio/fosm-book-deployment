@@ -59,6 +59,10 @@ This is a [nanoc](https://nanoc.app/) static site. Each chapter is a standalone 
 - **Callout boxes**: "Why This Matters", "Under the Hood", "AI Insight"
 - **Git checkpoints**: `git checkout chapter-N` for a working codebase at any point
 
+### Live book
+
+The book is hosted at **[fosm-book.inloop.studio](https://fosm-book.inloop.studio)**
+
 ### Build the site locally
 
 ```bash
@@ -137,6 +141,10 @@ The companion codebase is **Inloop Runway v0.24** — a fully functional Rails 8
 
 - Web: [parolkar.com](https://www.parolkar.com)
 - Twitter: [@parolkar](https://twitter.com/parolkar)
+
+## Hosting
+
+Book hosting is generously sponsored by [inloop.studio](https://inloop.studio).
 
 ## License
 
