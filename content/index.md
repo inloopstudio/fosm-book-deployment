@@ -6,7 +6,7 @@ title: "Finite Object State Machines: Building Business Software for the AI Age"
 
 ## Building Business Software for the AI Age
 
-*A hands-on guide to replacing CRUD with lifecycle-driven software using Rails 8, Hotwire, and AI*
+*A hands-on guide to re-think business software from mere CRUD to a lifecycle-driven state machine using Rails 8, FOSM, and your favorite AI Coding Agent*
 
 **By [Abhishek Parolkar](https://www.parolkar.com)**
 
